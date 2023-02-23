@@ -44,8 +44,11 @@ ul {
 .hero {
     display: flex;
     flex-direction: column;
-    margin-top: 100px;
-    margin-left: 160px;
-    max-width: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+    position: relative;
+    max-width: 475px;
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
