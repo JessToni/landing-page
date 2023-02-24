@@ -44,8 +44,8 @@ ul {
 .hero {
     display: flex;
     flex-direction: column;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 110px;
+    margin-top: 75px;
     position: relative;
     max-width: 475px;
     color: #E5E7EB;
