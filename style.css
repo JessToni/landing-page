@@ -42,11 +42,9 @@ ul {
 }
 
 .top-content-one {
-    display: block;
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
-    line-height: 50px;
 }
 
 .hero-container {
@@ -68,3 +66,12 @@ ul {
     width: 600px;
 }
 
+.top-button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border: transparent;
+    font-weight: bold;
+    padding: 10px 40px;
+    max-width: fit-content;
+    border-radius: 8px;
+}
