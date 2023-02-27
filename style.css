@@ -75,3 +75,15 @@ body {
     max-width: fit-content;
     border-radius: 8px;
 }
+
+.top-two {
+    display: flex;
+    flex-direction: column;
+    background-color: #F9FAF8;
+    min-height: 600px;
+    margin-top: 150px;
+}
+
+.cards-list {
+    display: flex;
+}
