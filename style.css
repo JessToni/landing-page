@@ -80,7 +80,7 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #F9FAF8;
-    min-height: 600px;
+    min-height: 500px;
     justify-content: baseline;
 }
 
@@ -128,7 +128,7 @@ ul.cards-list {
     display: flex;
     flex-direction: column;
     background-color: #E5E7EB;
-    min-height: 600px;
+    min-height: 500px;
     justify-content: center;
     align-items: center;
 }
@@ -152,4 +152,27 @@ ul.cards-list {
     align-self: flex-end;
     color: #1F2937;
     font-weight: 800;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: column;
+    background-color: #F9FAF8;
+    min-height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-container {
+    display: flex;
+    height: 100px;
+    width: 600px;
+    background-color: #3882F6;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-section {
+    display: flex;
+    flex-direction: column;
 }
