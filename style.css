@@ -130,3 +130,8 @@ ul.cards-list {
     background-color: #E5E7EB;
     min-height: 600px;
 }
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+}
