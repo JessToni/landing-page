@@ -25,6 +25,7 @@ body {
     display: flex;
     justify-content: space-evenly;
     align-items: flex-end;
+    gap: 200px;
 }
 
 .header-logo {
@@ -48,6 +49,7 @@ body {
 }
 
 .top-content-two {
+    margin-top: 5px;
     margin-bottom: 10px;
 }
 
